@@ -1,0 +1,4 @@
+In the beginning there were ideas and small experiments.
+Students learned how to read files, split text into words, and count occurrences.
+Text processing is a useful skill for data cleaning and simple analysis tasks.
+Practice makes perfect: try changing words, counting top terms, and experimenting with different text inputs.
